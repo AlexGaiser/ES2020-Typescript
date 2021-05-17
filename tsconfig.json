@@ -10,7 +10,9 @@
     "composite": true,
     "moduleResolution": "node",
     "outDir":"build",
-    "lib": ["ES2020"]
+    "importHelpers": false,
+    "downlevelIteration": true,
+    "lib": ["ES2020", "es5"]
   },
   "include": ["examples/**/*"],
   "exclude": ["*.test.ts"]
