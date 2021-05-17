@@ -14,6 +14,7 @@ Includes unit tests to demonstrate how each feature works.
 - `Promise.allSettled()` | available after Node 12.9.0
 - `String.prototype.matchAll()`| available after Node 12.0.0
 - `globalThis` | available after Node 12.0.0
+- `dynamicImport`
 
 ## Additional information
 
