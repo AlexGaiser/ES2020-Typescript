@@ -17,3 +17,4 @@ var nullWithString = function (str) {
     return null !== null && null !== void 0 ? null : str;
 };
 exports.nullWithString = nullWithString;
+//# sourceMappingURL=nullishCoalescing.js.map

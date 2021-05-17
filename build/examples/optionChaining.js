@@ -10,5 +10,4 @@ var dotNotation = function (obj) {
     return obj.a.b.c.d;
 };
 exports.dotNotation = dotNotation;
-var __testobj__ = { a: 1, b: 2 };
-console.log(exports.optionChaining(__testobj__));
+//# sourceMappingURL=optionChaining.js.map

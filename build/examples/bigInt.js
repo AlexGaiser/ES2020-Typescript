@@ -5,3 +5,4 @@ var sumBigInt = function (a, b) {
     return BigInt(a) + BigInt(b);
 };
 exports.sumBigInt = sumBigInt;
+//# sourceMappingURL=bigInt.js.map
