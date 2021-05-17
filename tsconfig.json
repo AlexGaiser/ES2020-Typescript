@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "declaration": true,
+    "composite": true,
+    "moduleResolution": "node",
+    "outDir":"build",
+    "lib": ["ES2020"]
+  },
+  "include": ["examples/**/*"],
+  "exclude": ["*.test.ts"]
+}
