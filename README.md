@@ -19,8 +19,9 @@ Includes unit tests to demonstrate how each feature works.
 Here is the official tsconfig.json configurations for targeting different versions of Node to guarantee runtime compatibility:
 
 https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
-```
+
 Node 14
+```
 {
   "compilerOptions": {
     "lib": ["ES2020"],
@@ -29,8 +30,8 @@ Node 14
   }
 }
 ```
-```
 Node 12
+```
 {
   "compilerOptions": {
     "lib": ["ES2019"],
@@ -39,8 +40,8 @@ Node 12
   }
 }
 ```
-```
 Node 10
+```
 {
   "compilerOptions": {
     "lib": ["es2018"],
