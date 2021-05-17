@@ -12,5 +12,6 @@ Includes unit tests to demonstrate how each feature works.
 - `Nullish Coalescing`
 - `Option Chaining` 
 - `Promise.allSettled()` | available after Node 12.9.0
+- `String.prototype.matchAll()`| available after Node 12.0.0
 
 
