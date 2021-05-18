@@ -1,1 +1,1 @@
-{"version":3,"file":"stringMatchall.js","sourceRoot":"","sources":["../../examples/stringMatchall.ts"],"names":[],"mappings":";;AAOA,IAAM,cAAc,GAAG,UACrB,GAAW,EACX,KAAa;IAEb,OAAO,GAAG,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC;AAC7B,CAAC,CAAC;AAEF,kBAAe,cAAc,CAAC"}
+{"version":3,"file":"stringMatchall.js","sourceRoot":"","sources":["../../examples/stringMatchall.ts"],"names":[],"mappings":";;AAOA,MAAM,cAAc,GAAG,CACrB,GAAW,EACX,KAAa,EACuB,EAAE;IACtC,OAAO,GAAG,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC;AAC7B,CAAC,CAAC;AAEF,kBAAe,cAAc,CAAC"}
